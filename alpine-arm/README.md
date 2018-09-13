@@ -17,7 +17,7 @@ $ make clean
 
 $ make RELEASE=v3.3
 $ make test RELEASE=v3.3
-$ make push RELEASE=v3.3
+$ make pusesh RELEASE=v3.3
 $ make clean
 
 $ make latest RELEASE=v3.3
